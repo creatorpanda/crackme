@@ -1,4 +1,4 @@
-# crackmes.one
+# crackme
 
 An archive of solved [crackmes](https://crackmes.one)!
 
