@@ -10,8 +10,9 @@ An archive of [crackmes](https://crackmes.one) I've solved!
 |**date solved** *mm/dd/yyyy*|**crackme name and link**|**coded in:**|**software used**|**brief steps**|**solution**|
 |      :-------------        |      :-------------:    |          :---:      |      :---:       |   :-----:    |    ---:    |
 |-|-|-|-|-|-|
-|12/28/2022|[CrackMe1](https://crackmes.one/crackme/6086bfb633c5d458ce0ec6cb)|C/C++|x32dbg|backtracked from the wrong serial messagebox|CTF{9110-2324-0502-2034-3454}|
-|12/28/2022|[StupidCrackMe](https://crackmes.one/crackme/5c6fb03b33c5d4776a837d14)|C/C++|x32dbg, ghidra|strcmp in main|LiL2281337|
+|12/28/2022|[CrackMe #2 - register me in your name](https://crackmes.one/crackme/5e49547033c5d4439bb2db75)|C/C++|x32dbg|*noticed that that the program was trying to read data from a text file named "keyfile"*|created a text file named "keyfile" on the same folder as the .exe was running. the registered name must be written in it.|
+|12/28/2022|[CrackMe1](https://crackmes.one/crackme/6086bfb633c5d458ce0ec6cb)|C/C++|x32dbg|*backtracked from the wrong serial messagebox*|CTF{9110-2324-0502-2034-3454}|
+|12/28/2022|[StupidCrackMe](https://crackmes.one/crackme/5c6fb03b33c5d4776a837d14)|C/C++|x32dbg, ghidra|*strcmp in main*|LiL2281337|
 |12/20/2022|[rootAhmed](https://crackmes.one/crackme/639e0c7e33c5d43ab4eceff7)|.NET|ghidra|*On the Listing window, the u"JSX#SZ@!F&8@Cc%h3@!" line can be easily located at the end of the assembly user imput check*|JSX#SZ@!F&8@Cc%h3@!|
 |12/20/2022|[Crack Me With Ui.](https://crackmes.one/crackme/628ab7af33c5d45b75903ab4)|.NET|ghidra|*same as above, but funnier. lel..*|8103535|
 |12/20/2022|[whoami](https://crackmes.one/crackme/5f07485e33c5d42a7c66794d)|C/C++|ghidra|*located solution string in the Listing window.*|Dad|
