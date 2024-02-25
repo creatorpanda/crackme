@@ -9,7 +9,7 @@ An archive of [crackmes](https://crackmes.one) I've solved!
 ## List (newer to older)
 |**date solved** *mm/dd/yyyy*|**crackme name and link**|**coded in:**|**software used**|**brief steps**|**solution**|
 |      :-------------        |      :-------------:    |          :---:      |      :---:       |   :-----:    |    ---:    |
-|-|-|-|-|-|-|
+|02/25/2024|[MountainMan's Challenge #1](https://crackmes.one/crackme/634f3e3933c5d4425e2cd96d)|**C/C++**|![ghidra](https://github.com/creatorpanda/crackme/blob/main/pictures/Ghidra_logo.png)|hardcoded solution in statement|ThatWasEasy!|
 |02/25/2024|[M4st4rCr4ck's H1dd4n Fl4g](https://crackmes.one/crackme/65a172f0eef082e477ff5a6e)|**C/C++**|![ghidra](https://github.com/creatorpanda/crackme/blob/main/pictures/Ghidra_logo.png)|happened to find the function that prints the flag message, but not a way to actually trigger it|[+] FLAG{B3ST_R3V3RS3R}|
 |02/25/2024|[Nalxe's Christmas CrackMe](https://crackmes.one/crackme/6588b4dc35240bf986f106fd)|**C/C++**|![ghidra](https://github.com/creatorpanda/crackme/blob/main/pictures/Ghidra_logo.png)|converted 0xee4 to dec|3812|
 |12/28/2022|[CrackMe #2 - register me in your name](https://crackmes.one/crackme/5e49547033c5d4439bb2db75)|**C/C++**|![x96dbg](https://github.com/creatorpanda/crackme/blob/main/pictures/x96dbg_logo.png)|noticed that that the program was trying to read data from a text file named "keyfile"|*created a text file named "keyfile" on the same folder as the .exe was running. the registered name must be written in it.*|
